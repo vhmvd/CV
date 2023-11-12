@@ -6,11 +6,8 @@ Software Engineer
 
 Phone: +92 336 6443449
 
-Email: ahmed210899@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/vhmn/
-
-GitHub: https://github.com/vhmvd
+|[Email](mailto:ahmed210899@gmail.com)|[LinkedIn](https://www.linkedin.com/in/vhmn/)|[GitHub](https://github.com/vhmvd)|
+|---|---|---|
 
 Lahore, PK
 
