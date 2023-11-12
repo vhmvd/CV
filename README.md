@@ -13,7 +13,7 @@ Lahore, PK
 
 ## SUMMARY
 
-I am an accomplished software engineer with a passion for creating high-quality Android applications. With 2 years of hands-on experience at Dubizzle Labs and expertise in various technologies, I am a self-motivated problem solver dedicated to delivering top-quality solutions. I am excited to take on new challenges that allow me to make a positive impact.  
+I am an accomplished software engineer with a passion for creating high-quality Android applications. With hands-on experience in various technologies, I am a self-motivated problem solver dedicated to delivering top-quality solutions. I am excited to take on new challenges that allow me to make a positive impact.  
 
 ## EXPERIENCE
 
